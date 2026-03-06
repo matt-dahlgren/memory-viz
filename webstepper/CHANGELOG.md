@@ -11,6 +11,7 @@ and adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 - Added the MemoryViz logo as a favicon
 - Added dark mode syntax highlighting for the code display
+- Aligned grey background colours in dark mode
 
 ### 🐛 Bug fixes
 
